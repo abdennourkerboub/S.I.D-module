@@ -1,0 +1,11 @@
+C:\Users\hp>cd desktop
+
+C:\Users\hp\Desktop>cd tp3
+
+C:\Users\hp\Desktop\TP3>javac implementation.java
+
+C:\Users\hp\Desktop\TP3>javac Server.java
+
+C:\Users\hp\Desktop\TP3>start rmiregistry
+
+C:\Users\hp\Desktop\TP3>java Server
