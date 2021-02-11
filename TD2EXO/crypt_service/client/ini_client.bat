@@ -1,0 +1,1 @@
+client -ORBInitRef NameService=corbaloc:iiop:localhost:8140/NameService

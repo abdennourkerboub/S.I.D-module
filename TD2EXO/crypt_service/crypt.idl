@@ -1,0 +1,9 @@
+// Abdennour Kerboub G2
+
+interface CaesarAlgorithm {
+	typedef sequence<char> charsequence;
+	charsequence encrypt(in string info,in unsigned long k,in unsigned long shift);
+	string decrypt(in charsequence info,in unsigned long k,in unsigned long shift);
+	boolean shutdown();
+};
+		  
